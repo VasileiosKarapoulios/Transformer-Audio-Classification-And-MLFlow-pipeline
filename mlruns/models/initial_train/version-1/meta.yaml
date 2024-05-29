@@ -1,0 +1,15 @@
+aliases:
+- vanilla
+creation_timestamp: 1716974551295
+current_stage: Production
+description: ''
+last_updated_timestamp: 1716983154802
+name: initial_train
+run_id: 7ba570724d6643a6940cce1a299b0996
+run_link: ''
+source: file:///workspace/mlruns/0/7ba570724d6643a6940cce1a299b0996/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///workspace/mlruns/0/7ba570724d6643a6940cce1a299b0996/artifacts/model
+user_id: null
+version: 1

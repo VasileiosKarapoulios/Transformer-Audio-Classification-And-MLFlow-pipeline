@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1716990963080
+current_stage: Production
+description: null
+last_updated_timestamp: 1716990963129
+name: retrain_1716990948
+run_id: 1225fa87134d41b38783480ad716266f
+run_link: null
+source: file:///workspace/mlruns/0/1225fa87134d41b38783480ad716266f/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///workspace/mlruns/0/1225fa87134d41b38783480ad716266f/artifacts/model
+user_id: null
+version: 1

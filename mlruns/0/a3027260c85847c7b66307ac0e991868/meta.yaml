@@ -1,0 +1,16 @@
+artifact_uri: file:///workspace/mlruns/0/a3027260c85847c7b66307ac0e991868/artifacts
+deleted_time: 1716988444834
+end_time: 1716987516661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a3027260c85847c7b66307ac0e991868
+run_name: retrain
+run_uuid: a3027260c85847c7b66307ac0e991868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716987515973
+status: 4
+tags: []
+user_id: root

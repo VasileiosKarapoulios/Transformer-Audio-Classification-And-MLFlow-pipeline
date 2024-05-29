@@ -1,0 +1,23 @@
+numpy
+pandas
+sonopy
+pydub
+matplotlib
+tqdm
+typing-extensions
+opencv-python
+black
+# PyTorch
+transformers
+torchvision
+torchtext
+pytorch-lightning
+nltk
+protobuf
+# Audio related
+torchaudio
+audioread
+pyaudio
+# mlflow
+mlflow
+databricks-cli
