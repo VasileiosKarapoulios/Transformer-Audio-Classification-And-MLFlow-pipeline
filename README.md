@@ -4,3 +4,10 @@
 2) MLFlow pipeline to compare and register trained models
 
 TODO: Automatically detect new data in the dataset and trigger training + registration pipeline
+
+
+
+MLFlow interface
+
+![image](https://github.com/VasileiosKarapoulios/Transformer-Audio-Classification-And-MLFlow-pipeline/assets/54540739/b18ae8b3-0b90-4854-b156-feacfbda972b)
+![image](https://github.com/VasileiosKarapoulios/Transformer-Audio-Classification-And-MLFlow-pipeline/assets/54540739/5eae49ca-5a07-4bbb-b425-1537ec74b7fb)
