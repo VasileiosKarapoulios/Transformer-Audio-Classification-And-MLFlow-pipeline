@@ -7,7 +7,7 @@
 
 TODO: Automatically detect new data in the dataset and trigger training + registration pipeline
 
-
+**Data is not included in the repo**
 
 MLFlow interface
 
