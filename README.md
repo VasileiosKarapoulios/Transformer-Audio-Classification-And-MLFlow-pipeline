@@ -5,7 +5,7 @@
 3) Docker setup to train the model
 4) Docker container serving latest MLFlow latest registered model & Rest_API script
 
-TODO: Automatically detect new data in the dataset and trigger training + registration pipeline
+*TODO*: Automatically detect new data in the dataset and trigger training + registration pipeline
 
 **Data is not included in the repo**
 
